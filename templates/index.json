@@ -1,40 +1,37 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "16617360204f2f6219": {
       "type": "flwr-multicolumn",
-      "disabled": true,
       "blocks": {
         "16617360199623ac75-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/htgt-1-8.jpg",
+            "image": "shopify://shop_images/htgt-1-8.jpg",
             "image_border_radius": "0px",
-            "mobile_image_border_radius": "50% 50% 0 0",
             "title": "",
             "title_font_size": "22px",
-            "title_font_size_mobile": "14px",
             "title_font_family": "'Gotham-Book'",
-            "title_font_color": "#000000",
-            "title_line_height": "1.0",
-            "title_font_weight": "600",
-            "title_margin_top": "8px",
             "text": "",
             "text_font_size": "24px",
-            "text_font_size_mobile": "24px",
             "text_font_family": "'Gotham-Book'",
             "text_font_color": "#102147",
             "text_line_height": "1.3",
             "text_font_weight": "600",
-            "subtitle_margin_top": "8px",
             "description": "",
             "description_font_size": "30px",
-            "description_font_size_mobile": "14px",
             "description_font_family": "'Gotham-Book'",
             "description_font_color": "#102147",
             "description_line_height": "1.3",
             "description_font_weight": "600",
-            "description_margin_top": "0px",
-            "description_margin_bottom": "0px",
             "link_label": "",
             "link": "",
             "is_hero_button": false,
@@ -42,13 +39,9 @@
             "link_two": "",
             "is_hero_button_two": false,
             "button_is_white_border_two": false,
-            "space_between_buttons": 8,
             "vertically_align_center": false,
-            "top_margin_column": "",
-            "top_margin_column_mobile": "",
             "width": "",
             "text_max_width": "100%",
-            "hide_on_mobile": false,
             "mobile_order": "",
             "margin_bottom_container": "",
             "remove_top_padding": false,
@@ -59,46 +52,31 @@
           "type": "column",
           "settings": {
             "image_border_radius": "0px",
-            "mobile_image_border_radius": "0px",
             "title": "",
             "title_font_size": "24px",
-            "title_font_size_mobile": "24px",
             "title_font_family": "'Alegreya'",
-            "title_font_color": "#000000",
-            "title_line_height": "1.0",
-            "title_font_weight": "600",
-            "title_margin_top": "8px",
             "text": "Visit Us Today or Call for an Appointment",
             "text_font_size": "24px",
-            "text_font_size_mobile": "24px",
             "text_font_family": "'Alegreya'",
             "text_font_color": "#000000",
             "text_line_height": "1.4",
             "text_font_weight": "400",
-            "subtitle_margin_top": "8px",
             "description": "Mon-Fri: 11-4 pm",
             "description_font_size": "36px",
-            "description_font_size_mobile": "30px",
             "description_font_family": "'Helvetica Neue'",
             "description_font_color": "#000000",
             "description_line_height": "1.3",
             "description_font_weight": "500",
-            "description_margin_top": "0px",
-            "description_margin_bottom": "16px",
             "link_label": "Shop Online",
-            "link": "shopify:\/\/collections\/online-art",
+            "link": "shopify://collections/online-art",
             "is_hero_button": true,
             "link_label_two": "Shop In-Store",
-            "link_two": "https:\/\/htgtfurniture.com\/collections?option=living-room",
+            "link_two": "https://htgtfurniture.com/collections?option=living-room",
             "is_hero_button_two": true,
             "button_is_white_border_two": false,
-            "space_between_buttons": 8,
             "vertically_align_center": true,
-            "top_margin_column": "",
-            "top_margin_column_mobile": "",
             "width": "",
             "text_max_width": "80%",
-            "hide_on_mobile": false,
             "mobile_order": "",
             "margin_bottom_container": "0px",
             "remove_top_padding": false,
@@ -110,35 +88,22 @@
         "16617360199623ac75-0",
         "16617360199623ac75-1"
       ],
+      "disabled": true,
       "settings": {
         "padding_top": 0,
         "padding_bottom": 0,
         "padding_right": 0,
         "padding_left": 0,
-        "max_height_desktop": 80,
-        "mobile_max_height_desktop": 56,
         "enabled_border": false,
         "swipe_on_mobile": false,
         "image_width": "full",
         "column_alignment": "left",
         "column_gap": "",
-        "button_padding": "12px 20px",
-        "hero_button_font_family": "'Helvetica Neue'",
-        "hero_button_font_size": "16px",
-        "hero_button_font_weight": "400",
-        "button_border_radius": "0px",
-        "button_border_color": "#121212",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#121212",
-        "button_border_color_hover": "#ffffff",
-        "button_background_color_hover": "#121212",
-        "button_text_color_hover": "#ffffff",
         "button_label": "",
         "button_link": "",
         "title": "",
         "title_font_size": "56px",
         "title_font_family": "'GothamXNarrow-Medium'",
-        "section_title_font_weight": "400",
         "section_title_padding": "0px",
         "sub_title": "",
         "subtitle_font_size": "20px",
@@ -156,34 +121,23 @@
         "template--15126395322575__403c9887-42c2-4cd2-97f6-b964f61f1b2d-16770180532dcfb176-0": {
           "type": "column",
           "settings": {
-            "image": "shopify:\/\/shop_images\/htgt-1-8.jpg",
+            "image": "shopify://shop_images/htgt-1-8.jpg",
             "image_border_radius": "0px",
-            "mobile_image_border_radius": "0px",
             "title": "",
             "title_font_size": "22px",
-            "title_font_size_mobile": "14px",
             "title_font_family": "'Helvetica Neue'",
-            "title_font_color": "#000000",
-            "title_line_height": "1.0",
-            "title_font_weight": "600",
-            "title_margin_top": "8px",
             "text": "",
             "text_font_size": "30px",
-            "text_font_size_mobile": "16px",
             "text_font_family": "'Helvetica Neue'",
             "text_font_color": "#000000",
             "text_line_height": "1.3",
             "text_font_weight": "600",
-            "subtitle_margin_top": "8px",
             "description": "",
             "description_font_size": "0px",
-            "description_font_size_mobile": "14px",
             "description_font_family": "'Helvetica Neue'",
             "description_font_color": "#000000",
             "description_line_height": "1.3",
             "description_font_weight": "600",
-            "description_margin_top": "0px",
-            "description_margin_bottom": "0px",
             "link_label": "",
             "link": "",
             "is_hero_button": false,
@@ -191,13 +145,9 @@
             "link_two": "",
             "is_hero_button_two": false,
             "button_is_white_border_two": false,
-            "space_between_buttons": 8,
             "vertically_align_center": false,
-            "top_margin_column": "",
-            "top_margin_column_mobile": "",
             "width": "",
             "text_max_width": "80%",
-            "hide_on_mobile": false,
             "mobile_order": "",
             "margin_bottom_container": "",
             "remove_top_padding": false,
@@ -208,46 +158,31 @@
           "type": "column",
           "settings": {
             "image_border_radius": "0px",
-            "mobile_image_border_radius": "0px",
             "title": "AFFORDABLE DESIGNER ART",
             "title_font_size": "22px",
-            "title_font_size_mobile": "14px",
             "title_font_family": "'Helvetica Neue'",
-            "title_font_color": "#000000",
-            "title_line_height": "1.0",
-            "title_font_weight": "400",
-            "title_margin_top": "8px",
             "text": "Shop our selection of affordable designer art that ships directly to you.",
             "text_font_size": "30px",
-            "text_font_size_mobile": "16px",
             "text_font_family": "'Helvetica Neue'",
             "text_font_color": "#000000",
             "text_line_height": "1.3",
             "text_font_weight": "600",
-            "subtitle_margin_top": "8px",
             "description": "",
             "description_font_size": "30px",
-            "description_font_size_mobile": "14px",
             "description_font_family": "'Helvetica Neue'",
             "description_font_color": "#000000",
             "description_line_height": "1.3",
             "description_font_weight": "600",
-            "description_margin_top": "20px",
-            "description_margin_bottom": "0px",
             "link_label": "Shop Art",
-            "link": "shopify:\/\/collections\/online-art",
+            "link": "shopify://collections/online-art",
             "is_hero_button": true,
             "link_label_two": "Shop Furniture In-Store",
-            "link_two": "shopify:\/\/collections\/living-room-selections",
+            "link_two": "shopify://collections/living-room-selections",
             "is_hero_button_two": true,
             "button_is_white_border_two": false,
-            "space_between_buttons": 8,
             "vertically_align_center": true,
-            "top_margin_column": "",
-            "top_margin_column_mobile": "",
             "width": "",
             "text_max_width": "80%",
-            "hide_on_mobile": false,
             "mobile_order": "",
             "margin_bottom_container": "",
             "remove_top_padding": false,
@@ -264,30 +199,16 @@
         "padding_bottom": 0,
         "padding_right": 0,
         "padding_left": 0,
-        "max_height_desktop": 90,
-        "mobile_max_height_desktop": 90,
         "enabled_border": false,
         "swipe_on_mobile": false,
         "image_width": "full",
         "column_alignment": "left",
         "column_gap": "0px",
-        "button_padding": "10px 20px",
-        "hero_button_font_family": "'Helvetica Neue'",
-        "hero_button_font_size": "18px",
-        "hero_button_font_weight": "400",
-        "button_border_radius": "0px",
-        "button_border_color": "#000000",
-        "button_background_color": "#ffffff",
-        "button_text_color": "#000000",
-        "button_border_color_hover": "#ffffff",
-        "button_background_color_hover": "#000000",
-        "button_text_color_hover": "#ffffff",
         "button_label": "",
         "button_link": "",
         "title": "",
         "title_font_size": "56px",
         "title_font_family": "'Helvetica Neue'",
-        "section_title_font_weight": "400",
         "section_title_padding": "0px",
         "sub_title": "",
         "subtitle_font_size": "20px",
@@ -301,7 +222,6 @@
     },
     "image_banner": {
       "type": "image-banner",
-      "disabled": true,
       "blocks": {
         "heading": {
           "type": "heading",
@@ -314,7 +234,7 @@
           "type": "text",
           "disabled": true,
           "settings": {
-            "text": "Transitional, contemporary and coastal, quality furniture, art and accents at best value pricing.  Local family owned and operated, one-of-a-kind furniture store situated within renovated warehouse\/hanger in Costa Mesa.  Visit our Promotions page to sign up for newsletters and special offers. If you have a special request or hard to find item, let us know via the Contact Us page.",
+            "text": "Transitional, contemporary and coastal, quality furniture, art and accents at best value pricing.  Local family owned and operated, one-of-a-kind furniture store situated within renovated warehouse/hanger in Costa Mesa.  Visit our Promotions page to sign up for newsletters and special offers. If you have a special request or hard to find item, let us know via the Contact Us page.",
             "text_style": "body"
           }
         },
@@ -322,10 +242,10 @@
           "type": "buttons",
           "settings": {
             "button_label_1": "Buy Products Online",
-            "button_link_1": "shopify:\/\/collections\/online-side-tables",
+            "button_link_1": "shopify://collections/unique-side-tables",
             "button_style_secondary_1": true,
             "button_label_2": "Get Directions",
-            "button_link_2": "https:\/\/www.google.com\/maps\/dir\/\/HtgT+Furniture,+1644+Superior+Ave,+Costa+Mesa,+CA+92627\/@33.6342172,-117.9275104,17z\/data=!4m8!4m7!1m0!1m5!1m1!1s0x80dd207560f042f3:0x8a21d99ea602e82a!2m2!1d-117.9253217!2d33.6342128",
+            "button_link_2": "https://www.google.com/maps/dir//HtgT+Furniture,+1644+Superior+Ave,+Costa+Mesa,+CA+92627/@33.6342172,-117.9275104,17z/data=!4m8!4m7!1m0!1m5!1m1!1s0x80dd207560f042f3:0x8a21d99ea602e82a!2m2!1d-117.9253217!2d33.6342128",
             "button_style_secondary_2": false
           }
         }
@@ -335,10 +255,9 @@
         "text",
         "button"
       ],
+      "disabled": true,
       "settings": {
-        "image": "shopify:\/\/shop_images\/htgt-1-3.jpg",
-        "mobile_image": "shopify:\/\/shop_images\/DSCF5702.jpg",
-        "dont_lazy_load": true,
+        "image": "shopify://shop_images/htgt-1-3.jpg",
         "image_overlay_opacity": 40,
         "image_height": "medium",
         "adapt_height_first_image": false,
@@ -401,7 +320,7 @@
         "d928ec0f-99fc-412e-bbbe-f80a0c183b95": {
           "type": "text",
           "settings": {
-            "block_text": "We are situated within a large renovated warehouse\/hanger in Costa Mesa. This is where you will find exquisitely curated coastal, transitional, contemporary quality furniture, art and home decorations at best value pricing. Locally owned and operated, this one-of-a-kind furniture store is modern and high-end.",
+            "block_text": "We are situated within a large renovated warehouse/hanger in Costa Mesa. This is where you will find exquisitely curated coastal, transitional, contemporary quality furniture, art and home decorations at best value pricing. Locally owned and operated, this one-of-a-kind furniture store is modern and high-end.",
             "block_font_size": "24px",
             "mobile_block_font_size": "18px",
             "block_font_color": "#333333",
@@ -472,8 +391,6 @@
       "settings": {
         "title": "MOST POPULAR ART",
         "heading_size": "h1",
-        "heading_font_size": "24px",
-        "heading_font_family": "Helvetica Neue",
         "description": "",
         "show_description": false,
         "description_style": "body",
@@ -502,9 +419,7 @@
         "a1b8d478-c17d-4abe-b1b7-78a06eefa774": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/CIMP-12E_ROM_1-1.jpg",
-            "link": "https:\/\/htgtfurniture.com\/accent-tables",
-            "title": "Accent Tables",
+            "image": "shopify://shop_images/CIMP-12E_ROM_1-1.jpg",
             "image_padding": true
           }
         },
@@ -518,9 +433,7 @@
           "type": "image",
           "disabled": true,
           "settings": {
-            "image": "shopify:\/\/shop_images\/CKEN-295N-671_ROM_1.webp",
-            "link": "https:\/\/htgtfurniture.myshopify.com\/collections\/sofas\/Sofas",
-            "title": "Sofas",
+            "image": "shopify://shop_images/CKEN-295N-671_ROM_1.webp",
             "image_padding": false
           }
         }
@@ -536,7 +449,6 @@
         "desktop_layout": "left",
         "mobile_layout": "column",
         "color_scheme": "background-1",
-        "two_by_two": true,
         "padding_top": 36,
         "padding_bottom": 36
       }
@@ -546,8 +458,6 @@
       "settings": {
         "title": "TRENDING RUGS",
         "heading_size": "h1",
-        "heading_font_size": "24px",
-        "heading_font_family": "'Helvetica Neue'",
         "description": "",
         "show_description": true,
         "description_style": "body",
@@ -573,7 +483,7 @@
     "bfdff81e-e559-4632-99fc-f4cd14c6b2b8": {
       "type": "custom-liquid",
       "settings": {
-        "custom_liquid": "<h2 style=\"padding: 0 5rem;font-size: 24px; font-family: 'Helvetica Neue';font-weight: 600;\"> FIND NEWEST ARRIVALS ON INSTAGRAM - @HTGTHOME <\/h2>",
+        "custom_liquid": "<h2 style=\"padding: 0 5rem;font-size: 24px; font-family: 'Helvetica Neue';font-weight: 600;\"> FIND NEWEST ARRIVALS ON INSTAGRAM - @HTGTHOME </h2>",
         "color_scheme": "background-1",
         "padding_top": 12,
         "padding_bottom": 0
@@ -583,10 +493,8 @@
       "type": "apps",
       "blocks": {
         "b517196e-8aff-4bdb-8f59-f19a1e82a503": {
-          "type": "shopify:\/\/apps\/instafeed-instagram-feed\/blocks\/app-block\/c447db20-095d-4a10-9725-b5977662c9d5",
+          "type": "shopify://apps/instafeed/blocks/app-block/c447db20-095d-4a10-9725-b5977662c9d5",
           "settings": {
-            "heading_size": 20,
-            "feed_width": 100,
             "html_area": ""
           }
         }
@@ -611,13 +519,12 @@
         "16545648716a37a12c-1": {
           "type": "paragraph",
           "settings": {
-            "text": "<p>Be the first to know about new products, in-store events, design concultations, and exclusive promotions.<\/p>"
+            "text": "<p>Be the first to know about new products, in-store events, design concultations, and exclusive promotions.</p>"
           }
         },
         "16545648716a37a12c-2": {
           "type": "email_form",
-          "settings": {
-          }
+          "settings": {}
         }
       },
       "block_order": [
